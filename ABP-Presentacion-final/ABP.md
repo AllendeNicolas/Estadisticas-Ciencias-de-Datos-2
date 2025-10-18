@@ -5,7 +5,7 @@
 <p>Dealdata, es el resultado de la unificación de tres grupos diferentes, respecto de los 
 equipos formados en el primer cuatrimestre. Por lo cual decidimos trabajar y 
 afianzarnos como equipo, utilizando una Base de Datos diferente, ya que nuestros 
-trabajos anteriores eran muy diferentes, y por cuestiones de incompatibilidad, no 
+trabajos anteriores eran muy distintos, y por cuestiones de incompatibilidad, no 
 podíamos continuar con alguno de los Data Set anteriores. Por esto decidimos trabajar 
 con un Data Set de Ventas de Amazon, el cual obtuvimos de la página de Kaggel 
 (https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset), el cual contaba 
