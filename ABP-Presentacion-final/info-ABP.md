@@ -29,3 +29,5 @@ ofrecido y la cantidad de calificaciones. Se evaluó qué tan bien el modelo pod
 estas predicciones. 
 Puede analizar, visualizar el desarrollo y las conclusiones obtenidas del trabajo, en el 
 Repositorio del Grupo, y en la carpeta ABP del mismo.</p>
+
+<h3>Link al repositorio <a>https://github.com/AllendeNicolas/Estadisticas-Ciencias-de-Datos-2/blob/main/ABP-Presentacion-final/Segundo%20Cuatrimestre-ABP-Poyecto%20Analista%20de%20Datos-Primer%20Semestre-Actualizado.pdf</a></h3>
